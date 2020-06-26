@@ -7,7 +7,6 @@ import Inputs from './components/Inputs'
 
 const App = () => {
     //state
-    const [formIsValid, setFormIsValid] = useState(false);
     const [formInputs, setFormInputs] = useState({
         firstName: {
             value: "",
