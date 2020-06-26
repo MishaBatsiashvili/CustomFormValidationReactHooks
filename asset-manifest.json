@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CustomFormValidationReactHooks/static/css/main.d8184b5e.chunk.css",
+    "main.js": "/CustomFormValidationReactHooks/static/js/main.27e2cf19.chunk.js",
+    "main.js.map": "/CustomFormValidationReactHooks/static/js/main.27e2cf19.chunk.js.map",
+    "runtime-main.js": "/CustomFormValidationReactHooks/static/js/runtime-main.cc3aa05c.js",
+    "runtime-main.js.map": "/CustomFormValidationReactHooks/static/js/runtime-main.cc3aa05c.js.map",
+    "static/js/2.48207fb2.chunk.js": "/CustomFormValidationReactHooks/static/js/2.48207fb2.chunk.js",
+    "static/js/2.48207fb2.chunk.js.map": "/CustomFormValidationReactHooks/static/js/2.48207fb2.chunk.js.map",
+    "index.html": "/CustomFormValidationReactHooks/index.html",
+    "precache-manifest.399ec5c0c1c5b1dceb01b6017d8a4b81.js": "/CustomFormValidationReactHooks/precache-manifest.399ec5c0c1c5b1dceb01b6017d8a4b81.js",
+    "service-worker.js": "/CustomFormValidationReactHooks/service-worker.js",
+    "static/css/main.d8184b5e.chunk.css.map": "/CustomFormValidationReactHooks/static/css/main.d8184b5e.chunk.css.map",
+    "static/js/2.48207fb2.chunk.js.LICENSE.txt": "/CustomFormValidationReactHooks/static/js/2.48207fb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc3aa05c.js",
+    "static/js/2.48207fb2.chunk.js",
+    "static/css/main.d8184b5e.chunk.css",
+    "static/js/main.27e2cf19.chunk.js"
+  ]
+}
